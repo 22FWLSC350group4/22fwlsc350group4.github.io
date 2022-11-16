@@ -1,12 +1,13 @@
 body {
-    background-color: powderblue;
+    background-color: rgb(201, 237, 241);
     margin-top: 100px;
     margin-bottom: 100px;
     margin-right: 150px;
     margin-left: 80px;
+    text-align: center;
   }
   h1 {
-    color: blue;
+    color: orangered;
     font-family: monospace;
     font-size: 300%;
   }
